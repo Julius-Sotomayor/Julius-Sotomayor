@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julius-sotomayor&label=Profile%20views&color=0e75b6&style=flat" alt="julius-sotomayor" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julius-sotomayor" alt="julius-sotomayor" /></a> </p>
-
 - 🔭 I’m currently working on **Freelance**
 
 - 🌱 I’m currently learning **cybersecurity**
